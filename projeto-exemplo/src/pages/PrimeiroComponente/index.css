@@ -1,0 +1,11 @@
+h1 {
+    background-color: yellow;
+    text-decoration: solid;
+    color: black;
+    padding: 4px;
+}
+
+p {
+    color: black;
+    text-shadow: 1px 1px 3px gray;
+}
